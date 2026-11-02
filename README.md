@@ -23,6 +23,5 @@ Au cours de ma formation en Data & Business Intelligence, j'ai eu l'occasion de 
 
 ### Me contacter
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Mon_profil-0A66C2?style=for-the-badge&logo=linkedin)](www.linkedin.com/in/faiez-slimen-20506232b)
-
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Mon_profil-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/faiez-slimen-20506232b)
 En parallèle de mes études, je pratique le football depuis plus de 10 ans. Cette expérience m'a permis de développer l'esprit d'équipe, la concentration, la persévérance et la capacité à réagir rapidement face aux imprévus.
