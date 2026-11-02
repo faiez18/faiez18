@@ -28,9 +28,9 @@ Au cours de ma formation en Data & Business Intelligence, j'ai eu l'occasion de 
 
 ### 📊 Mes statistiques GitHub
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=TON_PSEUDO&show_icons=true&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=faiez18&show_icons=true&theme=tokyonight)
 
-![Top Langages](https://github-readme-stats.vercel.app/api/top-langs/?username=TON_PSEUDO&layout=compact&theme=tokyonight)
+![Top Langages](https://github-readme-stats.vercel.app/api/top-langs/?username=faiez18&layout=compact&theme=tokyonight)
 
 ### 📫 Me contacter
 
