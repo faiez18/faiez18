@@ -21,7 +21,7 @@ Ma spécialité est orientée vers la **Data Analysis et la Business Intelligenc
 
 Au cours de ma formation en Data & Business Intelligence, j'ai eu l'occasion de réaliser plusieurs projets concrets : une analyse de données Netflix, un projet Bookshelf autour de la gestion d'une bibliothèque, ainsi qu'un projet de prédiction du prix d'une maison. Ces expériences m'ont permis de mettre en pratique mes compétences en programmation, en analyse et manipulation de données, ainsi qu'en exploitation de bases de données.
 
-### 📫 Me contacter
+### Me contacter
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Mon_profil-0A66C2?style=for-the-badge&logo=linkedin)](www.linkedin.com/in/faiez-slimen-20506232b)
 
