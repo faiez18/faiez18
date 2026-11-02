@@ -9,15 +9,14 @@ Ma spécialité est orientée vers la **Data Analysis et la Business Intelligenc
 
 ![My Skills](https://skillicons.dev/icons?i=python,java,html,mysql,git,github)
 
-**Langages et technologies utilisés :**
-- Python, Java, HTML, SQL / MySQL.
-
 **Bibliothèques et outils :**
 - Pandas, NumPy, Power BI, GitHub, VirtualBox et Microsoft Office.
 
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![VirtualBox](https://img.shields.io/badge/VirtualBox-183A61?style=for-the-badge&logo=virtualbox&logoColor=white)
+![Microsoft Office](https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoftoffice&logoColor=white)
 
 **Domaines que j'approfondis :**
 - Intelligence artificielle, Machine Learning, analyse et visualisation de données.
@@ -25,12 +24,6 @@ Ma spécialité est orientée vers la **Data Analysis et la Business Intelligenc
 ### Projets
 
 Au cours de ma formation en Data & Business Intelligence, j'ai eu l'occasion de réaliser plusieurs projets concrets : une analyse de données Netflix, un projet Bookshelf autour de la gestion d'une bibliothèque, ainsi qu'un projet de prédiction du prix d'une maison. Ces expériences m'ont permis de mettre en pratique mes compétences en programmation, en analyse et manipulation de données, ainsi qu'en exploitation de bases de données.
-
-### 📊 Mes statistiques GitHub
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=faiez18&show_icons=true&theme=tokyonight)
-
-![Top Langages](https://github-readme-stats.vercel.app/api/top-langs/?username=faiez18&layout=compact&theme=tokyonight)
 
 ### 📫 Me contacter
 
